@@ -1,0 +1,1577 @@
+{
+  "metadata": {
+    "title": "UCLA Phonetics Lab Archive Index"
+  },
+  "languages": [
+    {
+      "languageName": "Abaza",
+      "href": "archive.phonetics.ucla.edu/Language/ABQ/abq.html",
+      "code": "ABQ"
+    },
+    {
+      "languageName": "Abkhaz",
+      "href": "archive.phonetics.ucla.edu/Language/ABK/abk.html",
+      "code": "ABK"
+    },
+    {
+      "languageName": "Aceh",
+      "href": "archive.phonetics.ucla.edu/Language/ACE/ace.html",
+      "code": "ACE"
+    },
+    {
+      "languageName": "Adyghe",
+      "href": "archive.phonetics.ucla.edu/Language/ADY/ady.html",
+      "code": "ADY"
+    },
+    {
+      "languageName": "Afrikaans",
+      "href": "archive.phonetics.ucla.edu/Language/AFR/afr.html",
+      "code": "AFR"
+    },
+    {
+      "languageName": "Aghul",
+      "href": "archive.phonetics.ucla.edu/Language/AGX/agx.html",
+      "code": "AGX"
+    },
+    {
+      "languageName": "Akan",
+      "href": "archive.phonetics.ucla.edu/Language/AKA/aka.html",
+      "code": "AKA"
+    },
+    {
+      "languageName": "Aleut, Eastern",
+      "href": "archive.phonetics.ucla.edu/Language/ALE_EASTERN/ale_eastern.html",
+      "code": "ALE"
+    },
+    {
+      "languageName": "Aleut, Western",
+      "href": "archive.phonetics.ucla.edu/Language/ALE_WESTERN/ale_western.html",
+      "code": "ALE"
+    },
+    {
+      "languageName": "Amharic",
+      "href": "archive.phonetics.ucla.edu/Language/AMH/amh.html",
+      "code": "AMH"
+    },
+    {
+      "languageName": "Angami",
+      "href": "archive.phonetics.ucla.edu/Language/NJM/njm.html",
+      "code": "NJM"
+    },
+    {
+      "languageName": "Apache, Western ",
+      "href": "archive.phonetics.ucla.edu/Language/APW/apw.html",
+      "code": "APW"
+    },
+    {
+      "languageName": "Arabic, Egyptian",
+      "href": "archive.phonetics.ucla.edu/Language/ARZ/arz.html",
+      "code": "ARZ"
+    },
+    {
+      "languageName": "Arabic, Mesopotamian Spoken ",
+      "href": "archive.phonetics.ucla.edu/Language/ACM/acm.html",
+      "code": "ACM"
+    },
+    {
+      "languageName": "Arabic, Najdi Spoken ",
+      "href": "archive.phonetics.ucla.edu/Language/ARS/ars.html",
+      "code": "ARS"
+    },
+    {
+      "languageName": "Arabic, North Levantine Spoken ",
+      "href": "archive.phonetics.ucla.edu/Language/APC/apc.html",
+      "code": "APC"
+    },
+    {
+      "languageName": "Arabic, South Levantine Spoken ",
+      "href": "archive.phonetics.ucla.edu/Language/AJP/ajp.html",
+      "code": "AJP"
+    },
+    {
+      "languageName": "Arabic, Tunisian Spoken ",
+      "href": "archive.phonetics.ucla.edu/Language/AEB/aeb.html",
+      "code": "AEB"
+    },
+    {
+      "languageName": "Archi",
+      "href": "archive.phonetics.ucla.edu/Language/AQC/aqc.html",
+      "code": "AQC"
+    },
+    {
+      "languageName": "Armenian",
+      "href": "archive.phonetics.ucla.edu/Language/HYE/hye.html",
+      "code": "HYE"
+    },
+    {
+      "languageName": "Arrernte, Eastern ",
+      "href": "archive.phonetics.ucla.edu/Language/AER/aer.html",
+      "code": "AER"
+    },
+    {
+      "languageName": "Assamese",
+      "href": "archive.phonetics.ucla.edu/Language/ASM/asm.html",
+      "code": "ASM"
+    },
+    {
+      "languageName": "Avatime",
+      "href": "archive.phonetics.ucla.edu/Language/AVN/avn.html",
+      "code": "AVN"
+    },
+    {
+      "languageName": "Awutu",
+      "href": "archive.phonetics.ucla.edu/Language/AFU/afu.html",
+      "code": "AFU"
+    },
+    {
+      "languageName": "Azerbaijani, South ",
+      "href": "archive.phonetics.ucla.edu/Language/AZB/azb.html",
+      "code": "AZB"
+    },
+    {
+      "languageName": "Baatonum",
+      "href": "archive.phonetics.ucla.edu/Language/BBA/bba.html",
+      "code": "BBA"
+    },
+    {
+      "languageName": "Badaga",
+      "href": "archive.phonetics.ucla.edu/Language/BFQ/bfq.html",
+      "code": "BFQ"
+    },
+    {
+      "languageName": "Bafut",
+      "href": "archive.phonetics.ucla.edu/Language/BFD/bfd.html",
+      "code": "BFD"
+    },
+    {
+      "languageName": "Bamanankan",
+      "href": "archive.phonetics.ucla.edu/Language/BAM/bam.html",
+      "code": "BAM"
+    },
+    {
+      "languageName": "Banawa",
+      "href": "archive.phonetics.ucla.edu/Language/BNH/bnh.html",
+      "code": "BNH"
+    },
+    {
+      "languageName": "Basque",
+      "href": "archive.phonetics.ucla.edu/Language/EUS/eus.html",
+      "code": "EUS"
+    },
+    {
+      "languageName": "Bassa",
+      "href": "archive.phonetics.ucla.edu/Language/BSQ/bsq.html",
+      "code": "BSQ"
+    },
+    {
+      "languageName": "Bella Coola ",
+      "href": "archive.phonetics.ucla.edu/Language/BLC/blc.html",
+      "code": "BLC"
+    },
+    {
+      "languageName": "Bemba",
+      "href": "archive.phonetics.ucla.edu/Language/BEM/bem.html",
+      "code": "BEM"
+    },
+    {
+      "languageName": "Bengali",
+      "href": "archive.phonetics.ucla.edu/Language/BEN/ben.html",
+      "code": "BEN"
+    },
+    {
+      "languageName": "Berber (Tamazight)",
+      "href": "archive.phonetics.ucla.edu/Language/TZM/tzm.html",
+      "code": "TZM"
+    },
+    {
+      "languageName": "Bicolano, Albay ",
+      "href": "archive.phonetics.ucla.edu/Language/BHK/bhk.html",
+      "code": "BHK"
+    },
+    {
+      "languageName": "Bicolano, Central ",
+      "href": "archive.phonetics.ucla.edu/Language/BCL/bcl.html",
+      "code": "BCL"
+    },
+    {
+      "languageName": "Berom",
+      "href": "archive.phonetics.ucla.edu/Language/BOM/bom.html",
+      "code": "BOM"
+    },
+    {
+      "languageName": "Bruu",
+      "href": "archive.phonetics.ucla.edu/Language/BRV/brv.html",
+      "code": "BRV"
+    },
+    {
+      "languageName": "Bukiyip (Mountain Arapesh) ",
+      "href": "archive.phonetics.ucla.edu/Language/APE/ape.html",
+      "code": "APE"
+    },
+    {
+      "languageName": "Bulgarian",
+      "href": "archive.phonetics.ucla.edu/Language/BUL/bul.html",
+      "code": "BUL"
+    },
+    {
+      "languageName": "Bura-Pabir",
+      "href": "archive.phonetics.ucla.edu/Language/BWR/bwr.html",
+      "code": "BWR"
+    },
+    {
+      "languageName": "Burarra",
+      "href": "archive.phonetics.ucla.edu/Language/BVR/bvr.html",
+      "code": "BVR"
+    },
+    {
+      "languageName": "Burmese",
+      "href": "archive.phonetics.ucla.edu/Language/MYA/mya.html",
+      "code": "MYA"
+    },
+    {
+      "languageName": "Buryat",
+      "href": "archive.phonetics.ucla.edu/Language/BXM/bxm.html",
+      "code": "BXM"
+    },
+    {
+      "languageName": "Cacua",
+      "href": "archive.phonetics.ucla.edu/Language/CBV/cbv.html",
+      "code": "CBV"
+    },
+    {
+      "languageName": "Cama",
+      "href": "file:///U:/Dreamweaver%20files/Language/EBR/ebr.html",
+      "code": "EBR"
+    },
+    {
+      "languageName": "Catalan",
+      "href": "file:///U:/Dreamweaver%20files/Language/CAT/cat.html",
+      "code": "CAT"
+    },
+    {
+      "languageName": "Cebuano",
+      "href": "archive.phonetics.ucla.edu/Language/CEB/ceb.html",
+      "code": "CEB"
+    },
+    {
+      "languageName": "Chamalal",
+      "href": "archive.phonetics.ucla.edu/Language/CJI/cji.html",
+      "code": "CJI"
+    },
+    {
+      "languageName": "Chamorro",
+      "href": "archive.phonetics.ucla.edu/Language/CHA/cha.html",
+      "code": "CHA"
+    },
+    {
+      "languageName": "Chechen",
+      "href": "archive.phonetics.ucla.edu/Language/CHE/che.html",
+      "code": "CHE"
+    },
+    {
+      "languageName": "Cherepon",
+      "href": "archive.phonetics.ucla.edu/Language/CPN/cpn.html",
+      "code": "CPN"
+    },
+    {
+      "languageName": "Chickasaw",
+      "href": "archive.phonetics.ucla.edu/Language/CIC/cic.html",
+      "code": "CIC"
+    },
+    {
+      "languageName": "Chinantec, Ozumacín ",
+      "href": "archive.phonetics.ucla.edu/Language/CHZ/chz.html",
+      "code": "CHZ"
+    },
+    {
+      "languageName": "Chinantec, Palantla",
+      "href": "archive.phonetics.ucla.edu/Language/CPA/cpa.html",
+      "code": "CPA"
+    },
+    {
+      "languageName": "Chinese, Cantonese ",
+      "href": "archive.phonetics.ucla.edu/Language/YUE/yue.html",
+      "code": "YUE"
+    },
+    {
+      "languageName": "Chinese, Hakka ",
+      "href": "archive.phonetics.ucla.edu/Language/HAK/hak.html",
+      "code": "HAK"
+    },
+    {
+      "languageName": "Chinese, Mandarin ",
+      "href": "archive.phonetics.ucla.edu/Language/CMN/cmn.html",
+      "code": "CMN"
+    },
+    {
+      "languageName": "Chinese, Min Nan ",
+      "href": "archive.phonetics.ucla.edu/Language/NAN/nan.html",
+      "code": "NAN"
+    },
+    {
+      "languageName": "Chinese, Wu ",
+      "href": "archive.phonetics.ucla.edu/Language/WUU/wuu.html",
+      "code": "WUU"
+    },
+    {
+      "languageName": "Chong",
+      "href": "archive.phonetics.ucla.edu/Language/COG/cog.html",
+      "code": "COG"
+    },
+    {
+      "languageName": "Columbia-Wenatchi",
+      "href": "archive.phonetics.ucla.edu/Language/COL/col.html",
+      "code": "COL"
+    },
+    {
+      "languageName": "Comanche",
+      "href": "archive.phonetics.ucla.edu/Language/COM/com.html",
+      "code": "COM"
+    },
+    {
+      "languageName": "Croatian",
+      "href": "archive.phonetics.ucla.edu/Language/HRV/hrv.html",
+      "code": "HRV"
+    },
+    {
+      "languageName": "Crow",
+      "href": "archive.phonetics.ucla.edu/Language/CRO/cro.html",
+      "code": "CRO"
+    },
+    {
+      "languageName": "Cuyonon",
+      "href": "archive.phonetics.ucla.edu/Language/CYO/cyo.html",
+      "code": "CYO"
+    },
+    {
+      "languageName": "Czech",
+      "href": "archive.phonetics.ucla.edu/Language/CES/ces.html",
+      "code": "CES"
+    },
+    {
+      "languageName": "Dagbani",
+      "href": "archive.phonetics.ucla.edu/Language/DAG/dag.html",
+      "code": "DAG"
+    },
+    {
+      "languageName": "Dahalo",
+      "href": "archive.phonetics.ucla.edu/Language/DAL/dal.html",
+      "code": "DAL"
+    },
+    {
+      "languageName": "Danghu, Wangurri",
+      "href": "archive.phonetics.ucla.edu/Language/DHG/dhg.html",
+      "code": "DHG"
+    },
+    {
+      "languageName": "Danish",
+      "href": "archive.phonetics.ucla.edu/Language/DAN/dan.html",
+      "code": "DAN"
+    },
+    {
+      "languageName": "Defaka",
+      "href": "archive.phonetics.ucla.edu/Language/AFN/afn.html",
+      "code": "AFN"
+    },
+    {
+      "languageName": "Degema",
+      "href": "archive.phonetics.ucla.edu/Language/DEG/deg.html",
+      "code": "DEG"
+    },
+    {
+      "languageName": "Diriku (Rugciriku) ",
+      "href": "archive.phonetics.ucla.edu/Language/DIU/diu.html",
+      "code": "DIU"
+    },
+    {
+      "languageName": "Dutch",
+      "href": "archive.phonetics.ucla.edu/Language/NLD/nld.html",
+      "code": "NLD"
+    },
+    {
+      "languageName": "Ebira",
+      "href": "archive.phonetics.ucla.edu/Language/IGB/igb.html",
+      "code": "IGB"
+    },
+    {
+      "languageName": "Edo",
+      "href": "archive.phonetics.ucla.edu/Language/BIN/bin.html",
+      "code": "BIN"
+    },
+    {
+      "languageName": "Efik",
+      "href": "archive.phonetics.ucla.edu/Language/EFI/efi.html",
+      "code": "EFI"
+    },
+    {
+      "languageName": "Emai-luleha-Ora",
+      "href": "archive.phonetics.ucla.edu/Language/EMA/ema.html",
+      "code": "EMA"
+    },
+    {
+      "languageName": "English",
+      "href": "archive.phonetics.ucla.edu/Language/ENG/eng.html",
+      "code": "ENG"
+    },
+    {
+      "languageName": "Estonian",
+      "href": "archive.phonetics.ucla.edu/Language/EST/est.html",
+      "code": "EST"
+    },
+    {
+      "languageName": "Ewe",
+      "href": "archive.phonetics.ucla.edu/Language/EWE/ewe.html",
+      "code": "EWE"
+    },
+    {
+      "languageName": "Farsi, Eastern ",
+      "href": "archive.phonetics.ucla.edu/Language/PRS/prs.html",
+      "code": "PRS"
+    },
+    {
+      "languageName": "Farsi, Western",
+      "href": "archive.phonetics.ucla.edu/Language/PES/pes.html",
+      "code": "PES"
+    },
+    {
+      "languageName": "Finnish",
+      "href": "archive.phonetics.ucla.edu/Language/FIN/fin.html",
+      "code": "FIN"
+    },
+    {
+      "languageName": "French",
+      "href": "archive.phonetics.ucla.edu/Language/FRA/fra.html",
+      "code": "FRA"
+    },
+    {
+      "languageName": "Fulfulde, Adamawa",
+      "href": "archive.phonetics.ucla.edu/Language/FUB/fub.html",
+      "code": "FUB"
+    },
+    {
+      "languageName": "Fulfulde, Maasina",
+      "href": "archive.phonetics.ucla.edu/Language/FFM/ffm.html",
+      "code": "FFM"
+    },
+    {
+      "languageName": "Fulfulde, Nigerian dialect",
+      "href": "archive.phonetics.ucla.edu/Language/FUV/fuv.html",
+      "code": "FUV"
+    },
+    {
+      "languageName": "Fulfulde, Western Niger",
+      "href": "archive.phonetics.ucla.edu/Language/FUH/fuh.html",
+      "code": "FUH"
+    },
+    {
+      "languageName": "          Gã",
+      "href": "archive.phonetics.ucla.edu/Language/GAA/gaa.html",
+      "code": "GAA"
+    },
+    {
+      "languageName": "Gaelic, Irish ",
+      "href": "archive.phonetics.ucla.edu/Language/GLE/gle.html",
+      "code": "GLE"
+    },
+    {
+      "languageName": "Gaelic, Scottish",
+      "href": "archive.phonetics.ucla.edu/Language/GLA/gla.html",
+      "code": "GLA"
+    },
+    {
+      "languageName": "Ganda",
+      "href": "archive.phonetics.ucla.edu/Language/LUG/lug.html",
+      "code": "LUG"
+    },
+    {
+      "languageName": "Georgian",
+      "href": "archive.phonetics.ucla.edu/Language/KAT/kat.html",
+      "code": "KAT"
+    },
+    {
+      "languageName": "German, Standard",
+      "href": "archive.phonetics.ucla.edu/Language/DEU/deu.html",
+      "code": "DEU"
+    },
+    {
+      "languageName": "Gikuyu",
+      "href": "archive.phonetics.ucla.edu/Language/Gikuyu/kik.html",
+      "code": "KIK"
+    },
+    {
+      "languageName": "Gimi",
+      "href": "archive.phonetics.ucla.edu/Language/GIM/gim.html",
+      "code": "GIM"
+    },
+    {
+      "languageName": "Greek",
+      "href": "archive.phonetics.ucla.edu/Language/ELL/ell.html",
+      "code": "ELL"
+    },
+    {
+      "languageName": "Gua, Anum",
+      "href": "archive.phonetics.ucla.edu/Language/GWX/gwx.html",
+      "code": "GWX"
+    },
+    {
+      "languageName": "Guarani, Paraguayan",
+      "href": "archive.phonetics.ucla.edu/Language/GUG/gug.html",
+      "code": "GUG"
+    },
+    {
+      "languageName": "Guguyimidjir",
+      "href": "archive.phonetics.ucla.edu/Language/KKY/kky.html",
+      "code": "KKY"
+    },
+    {
+      "languageName": "Gujarati",
+      "href": "archive.phonetics.ucla.edu/Language/GUJ/guj.html",
+      "code": "GUJ"
+    },
+    {
+      "languageName": "Gumatj",
+      "href": "archive.phonetics.ucla.edu/Language/GNN/gnn.html",
+      "code": "GNN"
+    },
+    {
+      "languageName": "Gunwinggu (Kunwinjku) ",
+      "href": "archive.phonetics.ucla.edu/Language/GUP/gup.html",
+      "code": "GUP"
+    },
+    {
+      "languageName": "Gurdjar (Kurtjar) ",
+      "href": "archive.phonetics.ucla.edu/Language/GDJ/gdj.html",
+      "code": "GDJ"
+    },
+    {
+      "languageName": "Hadza",
+      "href": "archive.phonetics.ucla.edu/Language/HTS/hts.html",
+      "code": "HTS"
+    },
+    {
+      "languageName": "Hani",
+      "href": "archive.phonetics.ucla.edu/Language/HNI/hni.html",
+      "code": "HNI"
+    },
+    {
+      "languageName": "Haiǁom",
+      "href": "archive.phonetics.ucla.edu/Language/HGM/hgm.html",
+      "code": "HGM"
+    },
+    {
+      "languageName": "Hausa",
+      "href": "archive.phonetics.ucla.edu/Language/HAU/hau.html",
+      "code": "HAU"
+    },
+    {
+      "languageName": "Hawaiian",
+      "href": "archive.phonetics.ucla.edu/Language/HAW/haw.html",
+      "code": "HAW"
+    },
+    {
+      "languageName": "Hebrew",
+      "href": "archive.phonetics.ucla.edu/Language/HEB/heb.html",
+      "code": "HEB"
+    },
+    {
+      "languageName": "Hiligaynon",
+      "href": "archive.phonetics.ucla.edu/Language/HIL/hil.html",
+      "code": "HIL"
+    },
+    {
+      "languageName": "Hindi",
+      "href": "archive.phonetics.ucla.edu/Language/HIN/hin.html",
+      "code": "HIN"
+    },
+    {
+      "languageName": "Hmong Daw",
+      "href": "archive.phonetics.ucla.edu/Language/MWW/mww.html",
+      "code": "MWW"
+    },
+    {
+      "languageName": "Hmong Njua ",
+      "href": "archive.phonetics.ucla.edu/Language/blu/blu.html",
+      "code": "BLU"
+    },
+    {
+      "languageName": "Hungarian",
+      "href": "archive.phonetics.ucla.edu/Language/HUN/hun.html",
+      "code": "HUN"
+    },
+    {
+      "languageName": "ǂHua",
+      "href": "archive.phonetics.ucla.edu/Language/HUC/huc.html",
+      "code": "HUC"
+    },
+    {
+      "languageName": "Ibibio",
+      "href": "archive.phonetics.ucla.edu/Language/IBB/ibb.html",
+      "code": "IBB"
+    },
+    {
+      "languageName": "Icelandic",
+      "href": "archive.phonetics.ucla.edu/Language/ISL/isl.html",
+      "code": "ISL"
+    },
+    {
+      "languageName": "Idoma",
+      "href": "archive.phonetics.ucla.edu/Language/IDU/idu.html",
+      "code": "IDU"
+    },
+    {
+      "languageName": "Igbo",
+      "href": "archive.phonetics.ucla.edu/Language/IBO/ibo.html",
+      "code": "IBO"
+    },
+    {
+      "languageName": "Ikwere",
+      "href": "archive.phonetics.ucla.edu/Language/IKW/ikw.html",
+      "code": "IKW"
+    },
+    {
+      "languageName": "Ilocano",
+      "href": "archive.phonetics.ucla.edu/Language/ILO/ilo.html",
+      "code": "ILO"
+    },
+    {
+      "languageName": "Iraqw",
+      "href": "archive.phonetics.ucla.edu/Language/IRK/irk.html",
+      "code": "IRK"
+    },
+    {
+      "languageName": "Isekiri",
+      "href": "archive.phonetics.ucla.edu/Language/ITS/its.html",
+      "code": "ITS"
+    },
+    {
+      "languageName": "Isoko",
+      "href": "archive.phonetics.ucla.edu/Language/ISO/iso.html",
+      "code": "ISO"
+    },
+    {
+      "languageName": "Itelmen",
+      "href": "archive.phonetics.ucla.edu/Language/ITL/itl.html",
+      "code": "ITL"
+    },
+    {
+      "languageName": "Izon",
+      "href": "archive.phonetics.ucla.edu/Language/IJC/ijc.html",
+      "code": "IJC"
+    },
+    {
+      "languageName": "Javanese",
+      "href": "archive.phonetics.ucla.edu/Language/JAV/jav.html",
+      "code": "JAV"
+    },
+    {
+      "languageName": "Jingpho",
+      "href": "archive.phonetics.ucla.edu/Language/KAC/kac.html",
+      "code": "KAC"
+    },
+    {
+      "languageName": "Jola-Fonyi",
+      "href": "archive.phonetics.ucla.edu/Language/DYO/dyo.html",
+      "code": "DYO"
+    },
+    {
+      "languageName": "Juǀ'hoan (Zhu'oasi) ",
+      "href": "archive.phonetics.ucla.edu/Language/KTZ/ktz.html",
+      "code": "KTZ"
+    },
+    {
+      "languageName": "Kabardian",
+      "href": "archive.phonetics.ucla.edu/Language/KBD/kbd.html",
+      "code": "KBD"
+    },
+    {
+      "languageName": "Kabuverdianu (Cape Verde Creole) ",
+      "href": "archive.phonetics.ucla.edu/Language/KEA/kea.html",
+      "code": "KEA"
+    },
+    {
+      "languageName": "Kaititj",
+      "href": "archive.phonetics.ucla.edu/Language/GBB/gbb.html",
+      "code": "GBB"
+    },
+    {
+      "languageName": "Kalabari",
+      "href": "archive.phonetics.ucla.edu/Language/IJN/ijn.html",
+      "code": "IJN"
+    },
+    {
+      "languageName": "Kala Lagaw Ya ",
+      "href": "archive.phonetics.ucla.edu/Language/MWP/mwp.html",
+      "code": "MWP"
+    },
+    {
+      "languageName": "Kamba",
+      "href": "archive.phonetics.ucla.edu/Language/KAM/kam.html",
+      "code": "KAM"
+    },
+    {
+      "languageName": "Kambari (Tsishingini)",
+      "href": "archive.phonetics.ucla.edu/Language/TSW/tsw.html",
+      "code": "TSW"
+    },
+    {
+      "languageName": "Kanite",
+      "href": "archive.phonetics.ucla.edu/Language/KMU/kmu.html",
+      "code": "KMU"
+    },
+    {
+      "languageName": "Kannada",
+      "href": "archive.phonetics.ucla.edu/Language/KAN/kan.html",
+      "code": "KAN"
+    },
+    {
+      "languageName": "Kapampangan",
+      "href": "archive.phonetics.ucla.edu/Language/PAM/pam.html",
+      "code": "PAM"
+    },
+    {
+      "languageName": "Karakalpak",
+      "href": "archive.phonetics.ucla.edu/Language/KAA/kaa.html",
+      "code": "KAA"
+    },
+    {
+      "languageName": "Kelabit",
+      "href": "archive.phonetics.ucla.edu/Language/KZI/kzi.html",
+      "code": "KZI"
+    },
+    {
+      "languageName": "Kele",
+      "href": "archive.phonetics.ucla.edu/Language/SBC/sbc.html",
+      "code": "SBC"
+    },
+    {
+      "languageName": "Khana",
+      "href": "archive.phonetics.ucla.edu/Language/OGO/ogo.html",
+      "code": "OGO"
+    },
+    {
+      "languageName": "Khmer (Cambodian)",
+      "href": "archive.phonetics.ucla.edu/Language/KHM/khm.html",
+      "code": "KHM"
+    },
+    {
+      "languageName": "Kirike",
+      "href": "archive.phonetics.ucla.edu/Language/OKR/okr.html",
+      "code": "OKR"
+    },
+    {
+      "languageName": "Kirundi (Rundi) ",
+      "href": "archive.phonetics.ucla.edu/Language/RUN/run.html",
+      "code": "RUN"
+    },
+    {
+      "languageName": "Kissi",
+      "href": "archive.phonetics.ucla.edu/Language/KQS/kqs.html",
+      "code": "KQS"
+    },
+    {
+      "languageName": "Klao",
+      "href": "archive.phonetics.ucla.edu/Language/KLU/klu.html",
+      "code": "KLU"
+    },
+    {
+      "languageName": "Kom",
+      "href": "archive.phonetics.ucla.edu/Language/BKM/bkm.html",
+      "code": "BKM"
+    },
+    {
+      "languageName": "Konkani",
+      "href": "archive.phonetics.ucla.edu/Language/KNN/knn.html",
+      "code": "KNN"
+    },
+    {
+      "languageName": "Kono",
+      "href": "archive.phonetics.ucla.edu/Language/KNO/kno.html",
+      "code": "KNO"
+    },
+    {
+      "languageName": "Koonzime",
+      "href": "archive.phonetics.ucla.edu/Language/OZM/ozm.html",
+      "code": "OZM"
+    },
+    {
+      "languageName": "Korean, Cheju",
+      "href": "archive.phonetics.ucla.edu/Language/KOR_CHEJU/kor_cheju.html",
+      "code": "KOR"
+    },
+    {
+      "languageName": "Korean, Seoul ",
+      "href": "archive.phonetics.ucla.edu/Language/KOR/kor.html",
+      "code": "KOR"
+    },
+    {
+      "languageName": "Krache",
+      "href": "archive.phonetics.ucla.edu/Language/KYE/kye.html",
+      "code": "KYE"
+    },
+    {
+      "languageName": "Krio",
+      "href": "archive.phonetics.ucla.edu/Language/KRI/kri.html",
+      "code": "KRI"
+    },
+    {
+      "languageName": "Kurdish",
+      "href": "archive.phonetics.ucla.edu/Language/CKB/ckb.html",
+      "code": "CKB"
+    },
+    {
+      "languageName": "Kutep",
+      "href": "archive.phonetics.ucla.edu/Language/KUB/kub.html",
+      "code": "KUB"
+    },
+    {
+      "languageName": "Kwangali",
+      "href": "archive.phonetics.ucla.edu/Language/KWN/kwn.html",
+      "code": "KWN"
+    },
+    {
+      "languageName": "Kwanyama",
+      "href": "archive.phonetics.ucla.edu/Language/KUA/kua.html",
+      "code": "KUA"
+    },
+    {
+      "languageName": "Ladino",
+      "href": "archive.phonetics.ucla.edu/Language/LAD/lad.html",
+      "code": "LAD"
+    },
+    {
+      "languageName": "Lakota",
+      "href": "archive.phonetics.ucla.edu/Language/LKT/lkt.html",
+      "code": "LKT"
+    },
+    {
+      "languageName": "Larteh",
+      "href": "archive.phonetics.ucla.edu/Language/LAR/lar.html",
+      "code": "LAR"
+    },
+    {
+      "languageName": "Latvian",
+      "href": "archive.phonetics.ucla.edu/Language/LAV/lav.html",
+      "code": "LAV"
+    },
+    {
+      "languageName": "Lendu",
+      "href": "archive.phonetics.ucla.edu/Language/LED/led.html",
+      "code": "LED"
+    },
+    {
+      "languageName": "Limba",
+      "href": "archive.phonetics.ucla.edu/Language/LIA/lia.html",
+      "code": "LIA"
+    },
+    {
+      "languageName": "Lithuanian",
+      "href": "archive.phonetics.ucla.edu/Language/LIT/lit.html",
+      "code": "LIT"
+    },
+    {
+      "languageName": "Logba",
+      "href": "archive.phonetics.ucla.edu/Language/LGQ/lgq.html",
+      "code": "LGQ"
+    },
+    {
+      "languageName": "Luo (Dholuo) ",
+      "href": "archive.phonetics.ucla.edu/Language/LUO/luo.html",
+      "code": "LUO"
+    },
+    {
+      "languageName": "Mabaan",
+      "href": "archive.phonetics.ucla.edu/Language/MFZ/mfz.html",
+      "code": "MFZ"
+    },
+    {
+      "languageName": "Macedonian",
+      "href": "archive.phonetics.ucla.edu/Language/MKD/mkd.html",
+      "code": "MKD"
+    },
+    {
+      "languageName": "Makassarese",
+      "href": "archive.phonetics.ucla.edu/Language/MAK/mak.html",
+      "code": "MAK"
+    },
+    {
+      "languageName": "Malay, Pattani",
+      "href": "archive.phonetics.ucla.edu/Language/MFA/mfa.html",
+      "code": "MFA"
+    },
+    {
+      "languageName": "Malayalam",
+      "href": "archive.phonetics.ucla.edu/Language/MAL/mal.html",
+      "code": "MAL"
+    },
+    {
+      "languageName": "Maltese",
+      "href": "archive.phonetics.ucla.edu/Language/MLT/mlt.html",
+      "code": "MLT"
+    },
+    {
+      "languageName": "Marathi",
+      "href": "archive.phonetics.ucla.edu/Language/MAR/mar.html",
+      "code": "MAR"
+    },
+    {
+      "languageName": "Marghi, Central ",
+      "href": "archive.phonetics.ucla.edu/Language/MRT/mrt.html",
+      "code": "MRT"
+    },
+    {
+      "languageName": "Mazatec, Jalapa de Diaz",
+      "href": "http://archive.phonetics.ucla.edu/Language/MAJ/maj.html",
+      "code": "MAJ"
+    },
+    {
+      "languageName": "Mbukushu",
+      "href": "archive.phonetics.ucla.edu/Language/MHW/mhw.html",
+      "code": "MHW"
+    },
+    {
+      "languageName": "Melpa",
+      "href": "archive.phonetics.ucla.edu/Language/MED/med.html",
+      "code": "MED"
+    },
+    {
+      "languageName": "Mende",
+      "href": "archive.phonetics.ucla.edu/Language/MEN/men.html",
+      "code": "MEN"
+    },
+    {
+      "languageName": "Meriam",
+      "href": "archive.phonetics.ucla.edu/Language/ULK/ulk.html",
+      "code": "ULK"
+    },
+    {
+      "languageName": "Mingrelian",
+      "href": "archive.phonetics.ucla.edu/Language/XMF/xmf.html",
+      "code": "XMF"
+    },
+    {
+      "languageName": "Mixtec, Coatzospan ",
+      "href": "archive.phonetics.ucla.edu/Language/MIZ/miz.html",
+      "code": "MIZ"
+    },
+    {
+      "languageName": "Mixtec, Diuxi-Tilantongo",
+      "href": "archive.phonetics.ucla.edu/Language/XTD/xtd.html",
+      "code": "XTD"
+    },
+    {
+      "languageName": "Mizo",
+      "href": "archive.phonetics.ucla.edu/Language/LUS/lus.html",
+      "code": "LUS"
+    },
+    {
+      "languageName": "Mon",
+      "href": "archive.phonetics.ucla.edu/Language/MNW/mnw.html",
+      "code": "MNW"
+    },
+    {
+      "languageName": "Mono (Numic) Eastern",
+      "href": "archive.phonetics.ucla.edu/Language/MNR/mnr.html",
+      "code": "MNR"
+    },
+    {
+      "languageName": "Montana Salish ",
+      "href": "archive.phonetics.ucla.edu/Language/FLA/fla.html",
+      "code": "FLA"
+    },
+    {
+      "languageName": "Mori Atas ",
+      "href": "archive.phonetics.ucla.edu/Language/MZQ/mzq.html",
+      "code": "MZQ"
+    },
+    {
+      "languageName": "Moru",
+      "href": "archive.phonetics.ucla.edu/Language/MGD/mgd.html",
+      "code": "MGD"
+    },
+    {
+      "languageName": "Mpi",
+      "href": "archive.phonetics.ucla.edu/Language/MPZ/mpz.html",
+      "code": "MPZ"
+    },
+    {
+      "languageName": "Murrinh-Patha",
+      "href": "archive.phonetics.ucla.edu/Language/MWF/mwf.html",
+      "code": "MWF"
+    },
+    {
+      "languageName": "Naga, Angami ",
+      "href": "archive.phonetics.ucla.edu/Language/NJM/njm.html",
+      "code": "NJM"
+    },
+    {
+      "languageName": "Nahuatl, Isthmus-Mecayapan",
+      "href": "archive.phonetics.ucla.edu/Language/NHX/nhx.html",
+      "code": "NHX"
+    },
+    {
+      "languageName": "Nama  ",
+      "href": "archive.phonetics.ucla.edu/Language/NAQ/naq.html",
+      "code": "NAQ"
+    },
+    {
+      "languageName": "Nangikurrunggurr",
+      "href": "archive.phonetics.ucla.edu/Language/NAM/nam.html",
+      "code": "NAM"
+    },
+    {
+      "languageName": "Navajo",
+      "href": "archive.phonetics.ucla.edu/Language/NAV/nav.html",
+      "code": "NAV"
+    },
+    {
+      "languageName": "Ndonga",
+      "href": "archive.phonetics.ucla.edu/Language/NDO/ndo.html",
+      "code": "NDO"
+    },
+    {
+      "languageName": "Nepali",
+      "href": "archive.phonetics.ucla.edu/Language/NEP/nep.html",
+      "code": "NEP"
+    },
+    {
+      "languageName": "Newari",
+      "href": "archive.phonetics.ucla.edu/Language/NEW/new.html",
+      "code": "NEW"
+    },
+    {
+      "languageName": "Ngie",
+      "href": "archive.phonetics.ucla.edu/Language/NGJ/ngj.html",
+      "code": "NGJ"
+    },
+    {
+      "languageName": "Ngizim",
+      "href": "archive.phonetics.ucla.edu/Language/NGI/ngi.html",
+      "code": "NGI"
+    },
+    {
+      "languageName": "Ngwe",
+      "href": "archive.phonetics.ucla.edu/Language/NWE/nwe.html",
+      "code": "NWE"
+    },
+    {
+      "languageName": "Ngwo",
+      "href": "archive.phonetics.ucla.edu/Language/NGN/ngn.html",
+      "code": "NGN"
+    },
+    {
+      "languageName": "Nisenan (Southern Maidu) ",
+      "href": "archive.phonetics.ucla.edu/Language/NSZ/nsz.html",
+      "code": "NSZ"
+    },
+    {
+      "languageName": "Nkonya",
+      "href": "archive.phonetics.ucla.edu/Language/NKO/nko.html",
+      "code": "NKO"
+    },
+    {
+      "languageName": "Norwegian, Bokmål",
+      "href": "archive.phonetics.ucla.edu/Language/NOB/nob.html",
+      "code": "NOB"
+    },
+    {
+      "languageName": "Norwegian, Nynorsk ",
+      "href": "archive.phonetics.ucla.edu/Language/NNO/nno.html",
+      "code": "NNO"
+    },
+    {
+      "languageName": "Nunggubuyu",
+      "href": "archive.phonetics.ucla.edu/Language/NUY/nuy.html",
+      "code": "NUY"
+    },
+    {
+      "languageName": "Nyangumarta",
+      "href": "archive.phonetics.ucla.edu/Language/NNA/nna.html",
+      "code": "NNA"
+    },
+    {
+      "languageName": "Nzema",
+      "href": "archive.phonetics.ucla.edu/Language/NZI/nzi.html",
+      "code": "NZI"
+    },
+    {
+      "languageName": "Obulom",
+      "href": "archive.phonetics.ucla.edu/Language/OBU/obu.html",
+      "code": "OBU"
+    },
+    {
+      "languageName": "Okinawan",
+      "href": "archive.phonetics.ucla.edu/Language/RYU/ryu.html",
+      "code": "RYU"
+    },
+    {
+      "languageName": "Oromo",
+      "href": "archive.phonetics.ucla.edu/Language/GAX/gax.html",
+      "code": "GAX"
+    },
+    {
+      "languageName": "Oromo, West Central ",
+      "href": "archive.phonetics.ucla.edu/Language/GAZ/gaz.html",
+      "code": "GAZ"
+    },
+    {
+      "languageName": "Oro Win ",
+      "href": "archive.phonetics.ucla.edu/Language/ORW/orw.html",
+      "code": "ORW"
+    },
+    {
+      "languageName": "Pangasinan",
+      "href": "archive.phonetics.ucla.edu/Language/PAG/pag.html",
+      "code": "PAG"
+    },
+    {
+      "languageName": "Panjabi",
+      "href": "archive.phonetics.ucla.edu/Language/PAN/pan.html",
+      "code": "PAN"
+    },
+    {
+      "languageName": "Pashto",
+      "href": "archive.phonetics.ucla.edu/Language/PBU/pbu.html",
+      "code": "PBU"
+    },
+    {
+      "languageName": "Pidgin, Nigerian ",
+      "href": "archive.phonetics.ucla.edu/Language/PCM/pcm.html",
+      "code": "PCM"
+    },
+    {
+      "languageName": "Pirahã",
+      "href": "archive.phonetics.ucla.edu/Language/MYP/myp.html",
+      "code": "MYP"
+    },
+    {
+      "languageName": "Pitjantjatjara",
+      "href": "archive.phonetics.ucla.edu/Language/PJT/pjt.html",
+      "code": "PJT"
+    },
+    {
+      "languageName": "Plautdietsch",
+      "href": "archive.phonetics.ucla.edu/Language/PDT/pdt.html",
+      "code": "PDT"
+    },
+    {
+      "languageName": "Polish",
+      "href": "archive.phonetics.ucla.edu/Language/POL/pol.html",
+      "code": "POL"
+    },
+    {
+      "languageName": "Popoloca, San Felipe Otlaltepec ",
+      "href": "archive.phonetics.ucla.edu/Language/POW/pow.html",
+      "code": "POW"
+    },
+    {
+      "languageName": "Portuguese",
+      "href": "archive.phonetics.ucla.edu/Language/POR/por.html",
+      "code": "POR"
+    },
+    {
+      "languageName": "Provençal",
+      "href": "archive.phonetics.ucla.edu/Language/PRV/prv.html",
+      "code": "PRV"
+    },
+    {
+      "languageName": "Pulaar",
+      "href": "archive.phonetics.ucla.edu/Language/FUC/fuc.html",
+      "code": "FUC"
+    },
+    {
+      "languageName": "Pular",
+      "href": "archive.phonetics.ucla.edu/Language/FUF/fuf.html",
+      "code": "FUF"
+    },
+    {
+      "languageName": "Qʼeqchiʼ",
+      "href": "archive.phonetics.ucla.edu/Language/KEK/kek.html",
+      "code": "KEK"
+    },
+    {
+      "languageName": "Quechua, South Bolivian ",
+      "href": "archive.phonetics.ucla.edu/Language/QUH/quh.html",
+      "code": "QUH"
+    },
+    {
+      "languageName": "Romanian",
+      "href": "archive.phonetics.ucla.edu/Language/RON/ron.html",
+      "code": "RON"
+    },
+    {
+      "languageName": "Rutul",
+      "href": "archive.phonetics.ucla.edu/Language/RUT/rut.html",
+      "code": "RUT"
+    },
+    {
+      "languageName": "Sandawe",
+      "href": "archive.phonetics.ucla.edu/Language/SAD/sad.html",
+      "code": "SAD"
+    },
+    {
+      "languageName": "Saurashtra",
+      "href": "archive.phonetics.ucla.edu/Language/SAZ/saz.html",
+      "code": "SAZ"
+    },
+    {
+      "languageName": "Schwyzerdütsch",
+      "href": "archive.phonetics.ucla.edu/Language/GSW/gsw.html",
+      "code": "GSW"
+    },
+    {
+      "languageName": "Sekpele",
+      "href": "archive.phonetics.ucla.edu/Language/LIP/lip.html",
+      "code": "LIP"
+    },
+    {
+      "languageName": "Seneca",
+      "href": "archive.phonetics.ucla.edu/Language/SEE/see.html",
+      "code": "SEE"
+    },
+    {
+      "languageName": "Serbian",
+      "href": "archive.phonetics.ucla.edu/Language/SRP/srp.html",
+      "code": "SRP"
+    },
+    {
+      "languageName": "Serer-Sine",
+      "href": "archive.phonetics.ucla.edu/Language/SRR/srr.html",
+      "code": "SRR"
+    },
+    {
+      "languageName": "Serrano",
+      "href": "archive.phonetics.ucla.edu/Language/SER/ser.html",
+      "code": "SER"
+    },
+    {
+      "languageName": "Setswana",
+      "href": "archive.phonetics.ucla.edu/Language/TSN/tsn.html",
+      "code": "TSN"
+    },
+    {
+      "languageName": "Shilluk",
+      "href": "archive.phonetics.ucla.edu/Language/SHK/shk.html",
+      "code": "SHK"
+    },
+    {
+      "languageName": "Shona",
+      "href": "archive.phonetics.ucla.edu/Language/SNA/sna.html",
+      "code": "SNA"
+    },
+    {
+      "languageName": "Shuswap",
+      "href": "archive.phonetics.ucla.edu/Language/SHS/shs.html",
+      "code": "SHS"
+    },
+    {
+      "languageName": "Sindhi",
+      "href": "archive.phonetics.ucla.edu/Language/SND/snd.html",
+      "code": "SND"
+    },
+    {
+      "languageName": "Sinhalese",
+      "href": "archive.phonetics.ucla.edu/Language/SIN/sin.html",
+      "code": "SIN"
+    },
+    {
+      "languageName": "Sissala",
+      "href": "archive.phonetics.ucla.edu/Language/SLD/sld.html",
+      "code": "SLD"
+    },
+    {
+      "languageName": "Siwu",
+      "href": "archive.phonetics.ucla.edu/Language/AKP/akp.html",
+      "code": "AKP"
+    },
+    {
+      "languageName": "Slovak",
+      "href": "archive.phonetics.ucla.edu/Language/SLK/slk.html",
+      "code": "SLK"
+    },
+    {
+      "languageName": "Slovenian",
+      "href": "archive.phonetics.ucla.edu/Language/SLV/slv.html",
+      "code": "SLV"
+    },
+    {
+      "languageName": "Somali",
+      "href": "archive.phonetics.ucla.edu/Language/SOM/som.html",
+      "code": "SOM"
+    },
+    {
+      "languageName": "Songhay",
+      "href": "archive.phonetics.ucla.edu/Language/HMB/hmb.html",
+      "code": "HMB"
+    },
+    {
+      "languageName": "Sotho, Southern ",
+      "href": "archive.phonetics.ucla.edu/Language/SOT/sot.html",
+      "code": "SOT"
+    },
+    {
+      "languageName": "Susu",
+      "href": "archive.phonetics.ucla.edu/Language/SUS/sus.html",
+      "code": "SUS"
+    },
+    {
+      "languageName": "Svan",
+      "href": "archive.phonetics.ucla.edu/Language/SVA/sva.html",
+      "code": "SVA"
+    },
+    {
+      "languageName": "Swahili",
+      "href": "archive.phonetics.ucla.edu/Language/SWH/swh.html",
+      "code": "SWH"
+    },
+    {
+      "languageName": "Swedish",
+      "href": "archive.phonetics.ucla.edu/Language/SWE/swe.html",
+      "code": "SWE"
+    },
+    {
+      "languageName": "Tagalog",
+      "href": "archive.phonetics.ucla.edu/Language/TGL/tgl.html",
+      "code": "TGL"
+    },
+    {
+      "languageName": "Tahitian",
+      "href": "archive.phonetics.ucla.edu/Language/TAH/tah.html",
+      "code": "TAH"
+    },
+    {
+      "languageName": "Tamil",
+      "href": "archive.phonetics.ucla.edu/Language/TAM/tam.html",
+      "code": "TAM"
+    },
+    {
+      "languageName": "Tee",
+      "href": "archive.phonetics.ucla.edu/Language/TKQ/tkq.html",
+      "code": "TKQ"
+    },
+    {
+      "languageName": "Telugu",
+      "href": "archive.phonetics.ucla.edu/Language/TEL/tel.html",
+      "code": "TEL"
+    },
+    {
+      "languageName": "Thai",
+      "href": "archive.phonetics.ucla.edu/Language/THA/tha.html",
+      "code": "THA"
+    },
+    {
+      "languageName": "Thai, Northern",
+      "href": "archive.phonetics.ucla.edu/Language/NOD/nod.html",
+      "code": "NOD"
+    },
+    {
+      "languageName": "Themne",
+      "href": "archive.phonetics.ucla.edu/Language/TEM/tem.html",
+      "code": "TEM"
+    },
+    {
+      "languageName": "Tibetan",
+      "href": "archive.phonetics.ucla.edu/Language/BOD/bod.html",
+      "code": "BOD"
+    },
+    {
+      "languageName": "Tigrigna",
+      "href": "archive.phonetics.ucla.edu/Language/TIR/tir.html",
+      "code": "TIR"
+    },
+    {
+      "languageName": "Titan",
+      "href": "archive.phonetics.ucla.edu/Language/TTV/ttv.html",
+      "code": "TTV"
+    },
+    {
+      "languageName": "Tiv",
+      "href": "archive.phonetics.ucla.edu/Language/TIV/tiv.html",
+      "code": "TIV"
+    },
+    {
+      "languageName": "Tiwi",
+      "href": "archive.phonetics.ucla.edu/Language/TIW/tiw.html",
+      "code": "TIW"
+    },
+    {
+      "languageName": "Toda",
+      "href": "archive.phonetics.ucla.edu/Language/TCX/tcx.html",
+      "code": "TCX"
+    },
+    {
+      "languageName": "Tok Pisin ",
+      "href": "archive.phonetics.ucla.edu/Language/TPI/tpi.html",
+      "code": "TPI"
+    },
+    {
+      "languageName": "Tongan",
+      "href": "archive.phonetics.ucla.edu/Language/TON/ton.html",
+      "code": "TON"
+    },
+    {
+      "languageName": "Tsonga",
+      "href": "archive.phonetics.ucla.edu/Language/TSO/tso.html",
+      "code": "TSO"
+    },
+    {
+      "languageName": "Tsou",
+      "href": "archive.phonetics.ucla.edu/Language/TSU/tsu.html",
+      "code": "TSU"
+    },
+    {
+      "languageName": "Tübatulabal",
+      "href": "archive.phonetics.ucla.edu/Language/TUB/tub.html",
+      "code": "TUB"
+    },
+    {
+      "languageName": "Turkish",
+      "href": "archive.phonetics.ucla.edu/Language/TUR/tur.html",
+      "code": "TUR"
+    },
+    {
+      "languageName": "Tzotzil, Huixtán",
+      "href": "archive.phonetics.ucla.edu/Language/TZU/tzu.html",
+      "code": "TZU"
+    },
+    {
+      "languageName": "Ubykh",
+      "href": "archive.phonetics.ucla.edu/Language/UBY/uby.html",
+      "code": "UBY"
+    },
+    {
+      "languageName": "Ukrainian",
+      "href": "archive.phonetics.ucla.edu/Language/UKR/ukr.html",
+      "code": "UKR"
+    },
+    {
+      "languageName": "Urdu",
+      "href": "archive.phonetics.ucla.edu/Language/URD/urd.html",
+      "code": "URD"
+    },
+    {
+      "languageName": "Urhobo",
+      "href": "archive.phonetics.ucla.edu/Language/URH/urh.html",
+      "code": "URH"
+    },
+    {
+      "languageName": "Vai",
+      "href": "archive.phonetics.ucla.edu/Language/VAI/vai.html",
+      "code": "VAI"
+    },
+    {
+      "languageName": "Venda",
+      "href": "archive.phonetics.ucla.edu/Language/VEN/ven.html",
+      "code": "VEN"
+    },
+    {
+      "languageName": "Vietnamese",
+      "href": "archive.phonetics.ucla.edu/Language/VIE/vie.html",
+      "code": "VIE"
+    },
+    {
+      "languageName": "Vlaams",
+      "href": "archive.phonetics.ucla.edu/Language/VLS/vls.html",
+      "code": "VLS"
+    },
+    {
+      "languageName": "Wa",
+      "href": "archive.phonetics.ucla.edu/Language/WBM/wbm.html",
+      "code": "WBM"
+    },
+    {
+      "languageName": "Wahgi",
+      "href": "archive.phonetics.ucla.edu/Language/WGI/wgi.html",
+      "code": "WGI"
+    },
+    {
+      "languageName": "Waray-Waray",
+      "href": "archive.phonetics.ucla.edu/Language/WAR/war.html",
+      "code": "WAR"
+    },
+    {
+      "languageName": "Wari",
+      "href": "archive.phonetics.ucla.edu/Language/PAV/pav.html",
+      "code": "PAV"
+    },
+    {
+      "languageName": "Warlpiri",
+      "href": "archive.phonetics.ucla.edu/Language/WBP/wbp.html",
+      "code": "WBP"
+    },
+    {
+      "languageName": "Welsh",
+      "href": "archive.phonetics.ucla.edu/Language/CYM/cym.html",
+      "code": "CYM"
+    },
+    {
+      "languageName": "Wikmungkan",
+      "href": "archive.phonetics.ucla.edu/Language/WIM/wim.html",
+      "code": "WIM"
+    },
+    {
+      "languageName": "Wolof",
+      "href": "archive.phonetics.ucla.edu/Language/WOL/wol.html",
+      "code": "WOL"
+    },
+    {
+      "languageName": "Xhosa",
+      "href": "archive.phonetics.ucla.edu/Language/XHO/xho.html",
+      "code": "XHO"
+    },
+    {
+      "languageName": "!Xóõ",
+      "href": "archive.phonetics.ucla.edu/Language/NMN/nmn.html",
+      "code": "NMN"
+    },
+    {
+      "languageName": "!Xũ",
+      "href": "archive.phonetics.ucla.edu/Language/KTZ/ktz.html",
+      "code": "KTZ"
+    },
+    {
+      "languageName": "Yakima",
+      "href": "archive.phonetics.ucla.edu/Language/YAK/yak.html",
+      "code": "YAK"
+    },
+    {
+      "languageName": "Yanyuwa (Yanula)",
+      "href": "archive.phonetics.ucla.edu/Language/JAO/jao.html",
+      "code": "JAO"
+    },
+    {
+      "languageName": "Yeyi",
+      "href": "archive.phonetics.ucla.edu/Language/YEY/yey.html",
+      "code": "YEY"
+    },
+    {
+      "languageName": "Yi",
+      "href": "archive.phonetics.ucla.edu/Language/III/iii.html",
+      "code": "III"
+    },
+    {
+      "languageName": "Yiddish",
+      "href": "archive.phonetics.ucla.edu/Language/YDD/ydd.html",
+      "code": "YDD"
+    },
+    {
+      "languageName": "Yindjibarndi",
+      "href": "archive.phonetics.ucla.edu/Language/YIJ/yij.html",
+      "code": "YIJ"
+    },
+    {
+      "languageName": "Yoruba",
+      "href": "archive.phonetics.ucla.edu/Language/YOR/yor.html",
+      "code": "YOR"
+    },
+    {
+      "languageName": "Zapotec, Tlacolulita",
+      "href": "archive.phonetics.ucla.edu/Language/ZPK/zpk.html",
+      "code": "ZPK"
+    },
+    {
+      "languageName": "Zulu",
+      "href": "archive.phonetics.ucla.edu/Language/ZUL/zul.html",
+      "code": "ZUL"
+    }
+  ]
+}
